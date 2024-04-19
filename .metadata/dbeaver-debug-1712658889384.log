@@ -1,0 +1,117 @@
+2024-04-08 19:04:40.207 - DBeaver 24.0.0.202403091004 is starting
+2024-04-08 19:04:40.223 - OS: Windows 10 10.0 (amd64)
+2024-04-08 19:04:40.223 - Java version: 17.0.6 by Eclipse Adoptium (64bit)
+2024-04-08 19:04:40.223 - Install path: 'D:\web_1900_rhg\2_dbms\resorce\dbeaver'
+2024-04-08 19:04:40.223 - Instance path: 'file:/D:/web_1900_rhg/2_dbms/workplace/'
+2024-04-08 19:04:40.223 - Memory available 64Mb/1024Mb
+2024-04-08 19:04:40.223 - Create display
+2024-04-08 19:04:40.395 - Initialize desktop platform...
+2024-04-08 19:04:40.567 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.10.200.v20231102-0934]
+> Start Core Resource Management [org.eclipse.core.resources 3.20.0.v20231102-0934]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.126.202403091004]
+> Start 팀 지원 핵심 [org.eclipse.team.core 3.10.200.v20231106-1240]
+2024-04-08 19:04:41.040 - Initialize base platform...
+2024-04-08 19:04:41.086 - Platform initialized (690ms)
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.126.202403091004]
+2024-04-08 19:04:41.131 - Starting instance server at http://localhost:1082
+2024-04-08 19:04:41.152 - Run workbench
+> Start Eclipse e4 작업영역 SWT [org.eclipse.e4.ui.workbench.swt 0.17.200.v20231030-2045]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.4.200.v20231103-2012]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.200.v20231030-2045]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.4.200.v20231030-2045]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.14.200.v20231030-2045]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.200.v20231108-1058]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.36.0.v20231002-1156]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.14.200.v20230913-1724]
+> Start Eclipse e4 작업영역 기능 추가 [org.eclipse.e4.ui.workbench.addons.swt 1.5.200.v20231106-1600]
+> Start Eclipse e4 작업영역 SWT 렌더러 [org.eclipse.e4.ui.workbench.renderers.swt 0.16.200.v20231030-2045]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.100.v20231103-2012]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.200.v20231025-0632]
+2024-04-08 19:04:51.235 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.116.202403091004]
+2024-04-08 19:04:51.562 - Total database drivers: 112 (112)
+> Start 도움말 시스템 코어 [org.eclipse.help 3.10.200.v20231106-1240]
+2024-04-08 19:04:51.919 - Create actions
+2024-04-08 19:04:51.953 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2024-04-08 19:04:51.954 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2024-04-08 19:04:51.954 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+> Start jna [com.sun.jna 5.13.0.v20230812-1000]
+2024-04-08 19:04:53.605 - Initialize workbench window
+2024-04-08 19:04:53.610 - Finish initialization
+> Start 기본 문서 편집기 [org.eclipse.ui.editors 3.17.100.v20231106-1600]
+> Start 텍스트 편집기 프레임워크 [org.eclipse.ui.workbench.texteditor 3.17.200.v20231106-1600]
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.126.202403091004]
+Warning: NLS unused message: actions_navigator__objects in: org.jkiss.dbeaver.ui.editors.sql.internal.SQLEditorMessages
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.126.202403091004]
+> Start DBeaver SQL Terminal [org.jkiss.dbeaver.ui.editors.sql.terminal 1.0.102.202403091004]
+> Start 핵심 비교 지원 [org.eclipse.compare.core 3.8.300.v20231106-1240]
+> Start 인터넷 연결 관리 사용자 인터페이스 [org.eclipse.ui.net 1.5.200.v20231106-1240]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.200.v20231106-1240]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.163.202403091004]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.132.202403091004]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.14.100.202311222042]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.16.0.202311222042]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.86.202403091004]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.86.202403091004]
+> Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.19.202403091004]
+> Start DBeaver Oracle Model [org.jkiss.dbeaver.ext.oracle 2.1.211.202403091004]
+> Start DBeaver UI Editors - Connections [org.jkiss.dbeaver.ui.editors.connection 1.0.117.202403091004]
+> Start 콘솔 [org.eclipse.ui.console 3.13.100.v20230914-0751]
+> Start 디버그 핵심 [org.eclipse.debug.core 3.21.200.v20231021-1513]
+2024-04-08 19:04:58.323 - Connect with 'localhost' (oracle_thin-18e9963c330-4c5a70adbdf94fd7)
+> Start DBeaver SQL Language Semantic Model [org.jkiss.dbeaver.model.lsm 1.0.21.202403091004]
+2024-04-08 19:04:58.402 - Execution context opened (localhost; Main; 0)
+2024-04-08 19:04:59.284 - Execution context opened (localhost; Metadata; 1)
+2024-04-08 19:04:59.391 - Connected (oracle_thin-18e9963c330-4c5a70adbdf94fd7, Oracle JDBC driver [11.2.0.2.0])
+2024-04-08 19:04:59.398 - Execution context opened (localhost; SQLEditor <jdbc3.sql>; 2)
+> Start DBeaver Tasks - Native Tools UI [org.jkiss.dbeaver.tasks.native.ui 1.0.104.202403091004]
+> Start DBeaver Oracle UI [org.jkiss.dbeaver.ext.oracle.ui 1.0.113.202403091004]
+> Start DBeaver Tasks - General UI [org.jkiss.dbeaver.tasks.ui 1.0.104.202403091004]
+> Start DBeaver Data Transfer [org.jkiss.dbeaver.data.transfer 2.0.110.202403091004]
+2024-04-08 19:29:16.391 - Error binding callable statement parameters from metadata: 지원되지 않는 기능입니다
+2024-04-08 19:29:16.392 - Error obtaining output parameters from metadata: 지원되지 않는 기능입니다
+2024-04-08 19:29:16.392 - Can't obtain procedure metadata nor jdbc metadata
+2024-04-08 19:29:16.921 - SQL Error [955] [42000]: ORA-00955: name is already used by an existing object
+
+
+Error position: line: 64 pos: 26
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [955] [42000]: ORA-00955: name is already used by an existing object
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:614)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:505)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:524)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:976)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4133)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:190)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5148)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: ORA-00955: name is already used by an existing object
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:440)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:837)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:445)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:191)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:523)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:193)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:999)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1315)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:1890)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:1855)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:304)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-04-08 19:43:23.555 - Table 'T2' not found in metadata catalog
+2024-04-08 21:56:17.758 - System suspend detected! Reinitialize all remote connections.
+2024-04-08 21:56:59.546 - Execution context closed (localhost, 2)
+2024-04-08 21:56:59.858 - DBeaver is stopping
+2024-04-08 21:56:59.858 - Stop instance server
+2024-04-08 21:57:00.864 - Instance server has been stopped
+2024-04-08 21:57:00.865 - DBeaver shutdown completed

@@ -1,0 +1,114 @@
+2024-04-08 18:58:48.046 - DBeaver 24.0.0.202403091004 is starting
+2024-04-08 18:58:48.047 - OS: Windows 10 10.0 (amd64)
+2024-04-08 18:58:48.047 - Java version: 17.0.6 by Eclipse Adoptium (64bit)
+2024-04-08 18:58:48.047 - Install path: 'D:\web_1900_rhg\2_dbms\resorce\dbeaver'
+2024-04-08 18:58:48.048 - Instance path: 'file:/D:/web_1900_rhg/2_dbms/workplace/'
+2024-04-08 18:58:48.050 - Memory available 64Mb/1024Mb
+2024-04-08 18:58:48.059 - Create display
+2024-04-08 18:58:48.250 - Initialize desktop platform...
+2024-04-08 18:58:48.424 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.10.200.v20231102-0934]
+> Start Core Resource Management [org.eclipse.core.resources 3.20.0.v20231102-0934]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.126.202403091004]
+> Start 팀 지원 핵심 [org.eclipse.team.core 3.10.200.v20231106-1240]
+2024-04-08 18:58:48.873 - Initialize base platform...
+2024-04-08 18:58:48.916 - Platform initialized (666ms)
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.126.202403091004]
+2024-04-08 18:58:48.964 - Starting instance server at http://localhost:14621
+2024-04-08 18:58:48.997 - Run workbench
+> Start Eclipse e4 작업영역 SWT [org.eclipse.e4.ui.workbench.swt 0.17.200.v20231030-2045]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.4.200.v20231103-2012]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.200.v20231030-2045]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.4.200.v20231030-2045]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.14.200.v20231030-2045]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.200.v20231108-1058]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.36.0.v20231002-1156]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.14.200.v20230913-1724]
+> Start Eclipse e4 작업영역 기능 추가 [org.eclipse.e4.ui.workbench.addons.swt 1.5.200.v20231106-1600]
+> Start Eclipse e4 작업영역 SWT 렌더러 [org.eclipse.e4.ui.workbench.renderers.swt 0.16.200.v20231030-2045]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.100.v20231103-2012]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.200.v20231025-0632]
+2024-04-08 18:58:59.343 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.116.202403091004]
+2024-04-08 18:58:59.622 - Total database drivers: 112 (112)
+> Start 도움말 시스템 코어 [org.eclipse.help 3.10.200.v20231106-1240]
+2024-04-08 18:58:59.890 - Create actions
+2024-04-08 18:58:59.925 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2024-04-08 18:58:59.925 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2024-04-08 18:58:59.926 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+> Start jna [com.sun.jna 5.13.0.v20230812-1000]
+2024-04-08 18:59:01.727 - Initialize workbench window
+2024-04-08 18:59:01.733 - Finish initialization
+> Start 기본 문서 편집기 [org.eclipse.ui.editors 3.17.100.v20231106-1600]
+> Start 텍스트 편집기 프레임워크 [org.eclipse.ui.workbench.texteditor 3.17.200.v20231106-1600]
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.126.202403091004]
+Warning: NLS unused message: actions_navigator__objects in: org.jkiss.dbeaver.ui.editors.sql.internal.SQLEditorMessages
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.126.202403091004]
+> Start DBeaver SQL Terminal [org.jkiss.dbeaver.ui.editors.sql.terminal 1.0.102.202403091004]
+> Start 핵심 비교 지원 [org.eclipse.compare.core 3.8.300.v20231106-1240]
+> Start 인터넷 연결 관리 사용자 인터페이스 [org.eclipse.ui.net 1.5.200.v20231106-1240]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.200.v20231106-1240]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.163.202403091004]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.132.202403091004]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.14.100.202311222042]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.16.0.202311222042]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.86.202403091004]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.86.202403091004]
+> Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.19.202403091004]
+> Start DBeaver Oracle Model [org.jkiss.dbeaver.ext.oracle 2.1.211.202403091004]
+> Start DBeaver UI Editors - Connections [org.jkiss.dbeaver.ui.editors.connection 1.0.117.202403091004]
+> Start 콘솔 [org.eclipse.ui.console 3.13.100.v20230914-0751]
+> Start 디버그 핵심 [org.eclipse.debug.core 3.21.200.v20231021-1513]
+2024-04-08 18:59:06.039 - Connect with 'localhost' (oracle_thin-18e9963c330-4c5a70adbdf94fd7)
+> Start DBeaver SQL Language Semantic Model [org.jkiss.dbeaver.model.lsm 1.0.21.202403091004]
+2024-04-08 18:59:06.124 - Execution context opened (localhost; Main; 0)
+2024-04-08 18:59:06.452 - Connection refused: no further information
+java.net.ConnectException: Connection refused: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(Unknown Source)
+	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.base/java.net.Socket.connect(Unknown Source)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:209)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:353)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:678)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:238)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1054)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:308)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:536)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:228)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:521)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCConnectionOpener.run(JDBCConnectionOpener.java:109)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCConnectionOpener.run(JDBCConnectionOpener.java:83)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:221)
+	at org.jkiss.dbeaver.ext.oracle.model.OracleDataSource.openConnection(OracleDataSource.java:176)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.connect(JDBCExecutionContext.java:106)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.initializeMainContext(JDBCRemoteInstance.java:102)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.<init>(JDBCRemoteInstance.java:61)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.initializeRemoteInstance(JDBCDataSource.java:119)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:103)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:94)
+	at org.jkiss.dbeaver.ext.oracle.model.OracleDataSource.<init>(OracleDataSource.java:94)
+	at org.jkiss.dbeaver.ext.oracle.OracleDataSourceProvider.openDataSource(OracleDataSourceProvider.java:143)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.openDataSource(DataSourceDescriptor.java:1403)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect0(DataSourceDescriptor.java:1240)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect(DataSourceDescriptor.java:1026)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.run(ConnectJob.java:77)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-04-08 18:59:07.062 - Open [https://dbeaver.io/product/version.xml]
+> Start DBeaver Tasks - Native Tools UI [org.jkiss.dbeaver.tasks.native.ui 1.0.104.202403091004]
+> Start DBeaver Oracle UI [org.jkiss.dbeaver.ext.oracle.ui 1.0.113.202403091004]
+> Start DBeaver Tasks - General UI [org.jkiss.dbeaver.tasks.ui 1.0.104.202403091004]
+2024-04-08 18:59:26.678 - Transaction log is not available.
+Connect to a database.
+2024-04-08 19:00:34.286 - Transaction log is not available.
+Connect to a database.
+2024-04-08 19:00:56.495 - DBeaver is stopping
+2024-04-08 19:00:56.496 - Stop instance server
+2024-04-08 19:00:57.504 - Instance server has been stopped
+2024-04-08 19:00:57.504 - DBeaver shutdown completed
